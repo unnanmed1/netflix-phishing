@@ -1,6 +1,6 @@
 // Replace with your actual bot token and chat ID 
-const TOKEN = "YOUR_BOT_TOKEN";
-const CHAT_ID = "CHAT_ID";
+const TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
+const CHAT_ID = "YOUR_TELEGRAM_CHAT_ID";
 const URI_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
 // Listen for form submission
