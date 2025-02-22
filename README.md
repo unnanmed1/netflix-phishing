@@ -22,7 +22,7 @@ To get started with this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone-phishing.git
+   git clone https://github.com/unnanmed1/netflix-phishing.git
    cd netflix-phishing
    ```
 
@@ -61,7 +61,7 @@ To get started with this project, follow the steps below:
   - **Platform** 🖥️
   - **User Agent** 🕵️‍♂️
   - **Screen Resolution** 📏
- ![Telegram Bot Infos !](<>)
+ ![Telegram Bot Infos !](<https://i.postimg.cc/j23KrScX/Whats-App-Image-2025-02-22-at-18-14-33.jpg>)
 - This information is sent to your Telegram bot, allowing you to monitor user interactions in real-time. 📲
 
 ---
@@ -86,8 +86,7 @@ Contributions are welcome! If you'd like to contribute, feel free to **open a pu
 ---
 
 ## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 📄
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
