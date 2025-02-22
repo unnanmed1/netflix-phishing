@@ -62,7 +62,7 @@ To get started with this project, follow the steps below:
   - **User Agent** 🕵️‍♂️
   - **Screen Resolution** 📏
     #
- ![Telegram Bot Infos !](<https://i.postimg.cc/j23KrScX/Whats-App-Image-2025-02-22-at-18-14-33.jpg>)
+ ![Telegram Bot Infos !](<https://i.postimg.cc/wjdLmxgM/netflix-phish.jpg>)
 - This information is sent to your Telegram bot, allowing you to monitor user interactions in real-time. 📲
 
 ---
